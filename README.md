@@ -1,8 +1,8 @@
 # Data Science 
 
-## Python - 
+## Python
 
-## NumPy -
+## NumPy
 
-## Pandas -
+## Pandas
 
