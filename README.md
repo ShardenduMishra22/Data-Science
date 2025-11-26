@@ -1,4 +1,4 @@
-# Data Science Learning Repository
+# Data Science Learning - Repository
 
 Welcome to my Data Science learning repository! This repository contains various notebooks, notes, and resources I've compiled while learning data science concepts, Python libraries, and statistical methods.
 
